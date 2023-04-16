@@ -1,0 +1,42 @@
+#list img {
+  width: 80%;
+}
+
+.header .logo {
+  width: 30%;
+}
+.header .logo img {
+  width: 30%;
+}
+.header .navbar a {
+  text-decoration: none;
+  font-size: 20px;
+  font-weight: 600;
+  color: dimgrey;
+}
+.header .navbar a i {
+  position: relative;
+  margin-right: 13px;
+}
+.header .navbar a i span {
+  position: absolute;
+  font-size: 12px;
+  background-color: grey;
+  color: white;
+  padding: 4px 6px;
+  border-radius: 100%;
+  top: -12px;
+}
+
+.alertbox {
+  background-color: rgb(22, 239, 22);
+  text-align: center;
+  color: white;
+  width: 15%;
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  font-weight: bold;
+  border-radius: 5px;
+  display: none;
+}/*# sourceMappingURL=style.css.map */
